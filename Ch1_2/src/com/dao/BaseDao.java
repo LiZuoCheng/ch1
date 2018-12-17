@@ -7,7 +7,7 @@ import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
-
+//ddd
 public class BaseDao {
 	private static SqlSessionFactory sqlSessionFactory;
 	private static final String RESOURCE_FIRE="mybatis-config.xml";
